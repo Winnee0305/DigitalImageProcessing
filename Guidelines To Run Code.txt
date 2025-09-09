@@ -1,0 +1,11 @@
+Group Members:
+1. Chew Win Nee
+2. Chia Pei Qin
+
+Guidelines To Run The Code:
+1. Unzip the source code folder
+2. Lauch Anaconda and Spyder
+3. Open the script file named "DIP_Code.py"
+4. Click "Run"
+5. There will have a menu to select which video to process
+6. After processed, the file name of the output video will be "processed_xxx.avi"
